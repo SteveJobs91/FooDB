@@ -15,7 +15,7 @@ import json
 import os
 
 
-class FooDB(object):
+class FooDB(object)
     def __init__(self, location):
         self.location = os.path.expanduser(location)
         self.load(self.location)
