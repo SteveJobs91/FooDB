@@ -1,3 +1,7 @@
 FROM python:latest
 
-WORKDIR /src
+WORKDIR /app
+
+COPY . .
+
+CMD ["python3", "-m"]
