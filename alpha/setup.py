@@ -5,8 +5,8 @@ from os.path import abspath, dirname, join
 README_MD = open(join(dirname(abspath(__file__)), "c:\\Users\\HP\\Documents\\Software-Projects\\Python\\Python-Projects\\FooDB\\README.md")).read()
 
 setup(
-    name="foodb",
-    version="1.0.0",
+    name="foodb-alpha",
+    version="1.1.0",
     packages=find_packages(),
     description="FooDB is a small, open-source, extendable, and fully customizable JSON database written in Python using the json and os modules.",
     long_description=README_MD,
