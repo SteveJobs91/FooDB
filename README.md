@@ -12,3 +12,9 @@ FooDB can easily be extended and customized by opening the custom.py file.
 Just make your own methods and objects in the custom class or create new classes and customize the database any way you want!
 If you liked FooDB, fork our GitHub repository and give us a star!
 Also, JavaScript and TypeScript versions of FooDB are about to arrive very soon!
+
+# Install
+If you want to contribute to this database, then clone this repo using Git, make your own changes and create a pull request.
+
+To use this in your project, make sure that you have Docker installed on your system. Go to Docker Hub and pull the foodb image. You can then run FooDB locally.
+This is inconvenient for many developers, I agree, so a pip module of this database will be released tomorrow! All you need is Python!
