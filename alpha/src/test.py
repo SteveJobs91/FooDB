@@ -1,4 +1,4 @@
-from FooDB import FooDB
+from FooDBalpha import FooDB
 
 class FooDBtest(FooDB):
     pass

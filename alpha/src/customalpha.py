@@ -1,4 +1,4 @@
-import FooDB
+from FooDBalpha import FooDB
 import json
 import os
 
