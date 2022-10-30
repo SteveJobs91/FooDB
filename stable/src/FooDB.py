@@ -7,11 +7,10 @@ modules.'''
 # If you liked FooDB, fork our GitHub repository and give us a star!
 # Also, JavaScript and TypeScript versions of FooDB are about to arrive very soon!
 
-
-
-
 import json
 import os
+
+
 class FooDB(object):
     def __init__(self, location):
         self.location = os.path.expanduser(location)
