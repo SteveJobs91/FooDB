@@ -1,4 +1,6 @@
-from FooDB import FooDB
+from src
+from stable.src.FooDB import FooDB
+
 
 class FooDBtest(FooDB):
     pass
