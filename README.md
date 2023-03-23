@@ -4,6 +4,9 @@ FooDB is an small, open-source, extendable and fully customizable JSON database 
 # About
 At first, FooDB stores the data stored in it in RAM, but once the data is stored, it takes the in-memory database(which is actually just a JSON object) and saves it in a database file.
 
+# Updates
+A Docker version of FooDB is now availible.
+
 # Customization
 FooDB can easily be extended and customized by opening the custom.py file.
 Just make your own methods and objects in the custom class or create new classes and customize the database any way you want!
