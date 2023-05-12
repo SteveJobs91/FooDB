@@ -2,7 +2,7 @@
 FooDB is an small, open-source, extendable and fully customizable JSON database written in Python using the built-in json and os  modules.
 
 # About
-At first, FooDB stores the data stored in it in RAM, but once the data is stored, it takes the in-memory database(which is actually just a JSON object) and saves it in a database file.
+At first, FooDB stores data stored in RAM, but once it's stored, it takes the in-memory database (which is actually just a JSON object) and saves it in a database file.
 
 # Updates
 
